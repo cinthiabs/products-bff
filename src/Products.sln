@@ -5,17 +5,17 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Products.Api", "Products.Api", "{BCFF0FAF-52E5-48CA-9276-BA3386A5AD88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Products.Api", "Products.Api\Products.Api.csproj", "{E0F5CDBC-8831-456A-A2AB-CD52373DEA20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products.Api", "Products.Api\Products.Api.csproj", "{E0F5CDBC-8831-456A-A2AB-CD52373DEA20}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Products.Application", "Products.Application", "{50C1F9D9-30EB-4E7D-944C-F28B0E8A373A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Products.Application", "Products.Application\Products.Application.csproj", "{50DD5DB9-61DA-4237-A4F3-F7EE6C072BB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products.Application", "Products.Application\Products.Application.csproj", "{50DD5DB9-61DA-4237-A4F3-F7EE6C072BB3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Products.Domain", "Products.Domain", "{685FE1E7-2A1A-4606-ABC9-A382BD25BE60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Products.Domain", "Products.Domain\Products.Domain.csproj", "{EA5A738B-CAED-44EE-8F44-35F955C5BA1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products.Domain", "Products.Domain\Products.Domain.csproj", "{EA5A738B-CAED-44EE-8F44-35F955C5BA1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Products.Infrastructure", "Products.Infrastructure\Products.Infrastructure.csproj", "{23D223E5-035F-49BD-9798-B9C896BB4071}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products.Infrastructure", "Products.Infrastructure\Products.Infrastructure.csproj", "{23D223E5-035F-49BD-9798-B9C896BB4071}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Products.Tests", "Products.Tests", "{0E21DFAA-D663-4E1A-8F34-A722A1CCCFA8}"
 EndProject
